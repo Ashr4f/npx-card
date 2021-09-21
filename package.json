@@ -1,6 +1,6 @@
 {
 	"name": "ashraf",
-	"version": "1.0.7",
+	"version": "1.0.8",
 	"description": "My business card",
 	"main": "./bin/card.js",
 	"bin": {
